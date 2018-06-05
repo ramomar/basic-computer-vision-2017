@@ -1,4 +1,4 @@
-# computer-vision
+# low-level-computer-vision-2017
 This repo contains some basic low-level Computer Vision algorithms implemented in a Jupyter notebook using numpy and a little OpenCV.
 
 <p align="center">
