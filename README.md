@@ -5,7 +5,7 @@ This repo contains some basic Computer Vision algorithms implemented in a Jupyte
   <img src="https://user-images.githubusercontent.com/10622989/40581339-a13c4288-611b-11e8-9700-8b07745bbb4a.gif">
 </p>
 
-Algorithms:
+## Algorithms
   - Grayscale resolution.
   - Variance based thresholding (Otsu, 1979).
   - Entropy based thresholding (Kapur et al., 1985).
